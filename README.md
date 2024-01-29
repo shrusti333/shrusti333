@@ -4,7 +4,7 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=shrusti333&label=Profile%20views&color=0e75b6&style=flat" alt="shrusti333" /> </p>
 - 🔭 I’m currently studying **BE in Information technology**
 
-- 🌱 I’m currently learning **Node js**
+- 🌱 I’m currently learning **kotlin**
 
 - 🤝 I’m currently working on [speech dialect detection.]
 
