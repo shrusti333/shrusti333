@@ -5,11 +5,11 @@
 - 🔭 I’m currently studying **Mtech in Computer Science and Engineering**
 
 - 🌱 I’m currently learning **AWS Cloud technology**
-- 
-- - 🤝 I’m currently working at [Intel]
-  - 
+  
+-  🤝 I’m currently working at [Intel]
+      
 - 🤝 I’m currently working on [Keyword spotting.]
-- 
+  
 - 📫 How to reach me **naikgaonkarshrusti@gmail.com**
 
 
